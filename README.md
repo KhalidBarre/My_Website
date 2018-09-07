@@ -27,16 +27,16 @@
           <aside>
            <article class="articles">
            <pre>
-           I love you the more in that I believe you had liked me for my own sake and for nothing else.
-           John Keats
+            “When a man learns to love, he must bear the risk of hatred.” 
+             ― Uchiha Madara
            </pre>
            
           </article>
           
       <article class="articles">
       <p>
-        I <em>love</em> you the more in that I <strong>believe</strong> you had <wbr><strong>liked</strong> me for my own <i>ideals and nothing else.</i> 
-           <br>John Keats
+        When man learns to<em>love</em> , he must bear the risk of <strong>hatred"</strong>
+           <br>Uchiha Madara
            </p>
           </article>
          </aside>
