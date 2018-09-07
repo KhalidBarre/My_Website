@@ -35,8 +35,8 @@
           
       <article class="articles">
       <p>
-        When man learns to<em>love</em> , he must bear the risk of <strong>hatred"</strong>
-           <br>Uchiha Madara
+        <i>When man learns to love, he must bear the risk of hatred"</i>
+           <br><b>Uchiha Madara</b>
            </p>
           </article>
          </aside>
